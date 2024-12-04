@@ -16,10 +16,10 @@
 | Quiz 1 |  | 1 |
 | Quiz 2 |  | 3 |
 | Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| LAB Activities |  |  |
+| FGE_LW1 Creating File Systems  |  |  |
+| FGE_LW3 Managing Services in Windows |  |  |
+| FGE_LW4 Managing Services in Linux |  |  |
 | First Grading Exam |  |  |
 | **Midterms** |  |  |
 | Quizzes |  |  |
@@ -27,8 +27,8 @@
 | Quiz 2 |  |  |
 | Quiz 3 |  |  |
 | Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| M_LW1 Print Services |  |  |
+| M_LW2 Web Server |  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | Midterm Exam |  |  |
 | **Finals** |  |  |
@@ -36,9 +36,9 @@
 | Quiz 1 |  |  |
 | Quiz 2 |  |  |
 | Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
+| LAB Activities |  |  |
+| FLW1_Kerberos |  |  |
+| FLW2 Git|  |  |
 | \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
 | Final Exam |  |  |
 | Course Reflection |  |  |
