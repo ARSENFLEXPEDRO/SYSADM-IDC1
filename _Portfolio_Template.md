@@ -2,8 +2,8 @@
 
 |  SCHOOL OF INFORMATION TECHNOLOGY |  |  |
 | ----- | :---- | :---: |
-| NAME:  |  |   |
-| SECTION: | DATE SUBMITTED: |  |
+| NAME:  | FLEX D. PEDRO |   |
+| SECTION: IDC1| DATE SUBMITTED:03-12-24 |  |
 
 # **\<SUBJECT CODE\> PORTFOLIO**
 
