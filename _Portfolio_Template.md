@@ -74,8 +74,7 @@ Were there any particular assignments, projects, or activities that significantl
 
 Throughout the project, I learned the importance of aligning the network design with the specific needs of the organization. This meant considering not only current requirements but also anticipating future growth and technological advancements. Collaborating with my classmates added another layer of depth to the experience, as we shared ideas and tackled challenges together. The hands-on nature of the assignment made the concepts more tangible, allowing me to see firsthand how different components interact within a network.
 
-Overall, the Network Design project was a highlight of the course, making the learning process much more impactful and engaging. It not only reinforced my desire to pursue a career in system administration but also equipped me with practical skills that I can apply in future endeavors.
- |
+Overall, the Network Design project was a highlight of the course, making the learning process much more impactful and engaging. It not only reinforced my desire to pursue a career in system administration but also equipped me with practical skills that I can apply in future endeavors. |
 | :---- |
 
 Did you encounter any challenges or difficulties during the course? How did you overcome these obstacles, and what did you learn from them?
